@@ -3,17 +3,18 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f5b942;
-    margin: 0;
+    background-color: #f4b860;
+    font-family: Arial, sans-serif;
 }
 
 .container {
     position: relative;
 }
 
-.text {
-    font-size: 50px;
+h1 {
+    font-size: 4rem;
     font-weight: bold;
-    color: #5d1d74;
-    opacity: 0; /* Początkowo niewidoczny */
+    color: #5a189a;
+    text-transform: uppercase;
+    position: relative;
 }
